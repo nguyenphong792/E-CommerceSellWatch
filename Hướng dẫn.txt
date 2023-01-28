@@ -1,0 +1,4 @@
+Tài khoản admin/pass:
+admin/123123
+
+admin2/123123
